@@ -18,7 +18,7 @@ jobs:
   # ==========================
 
   job1_checkout:
-    name: Job 1: Checkout Source 🟦
+    name: Checkout Source 🟦
     runs-on: ubuntu-latest
 
     steps:
